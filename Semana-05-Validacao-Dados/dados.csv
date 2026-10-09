@@ -1,1 +1,5 @@
-
+nome,email,cpf,telefone,data
+Carlos Silva,carlos@email.com,123.456.789-00,(98) 98111-2222,15/03/1995
+Ana Souza,ana.souza_invalid,111.222.333-44,981112222,2023-10-05
+Mariana Costa,mariana@dominio.com.br,987.654.321-11,(11) 97777-8888,01/01/2000
+Pedro Rocha,pedro@email,00011122233,11999998888,31/02/2020
